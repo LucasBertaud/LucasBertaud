@@ -70,7 +70,7 @@ My favorite quote:
     <img style="margin-bottom: '20px';" height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBertaud&layout=compact&theme=tokyonight" />
   </a>
 
-  <br>
+  <br><br>  <br><br>  <br><br>  <br><br>  <br><br>  <br><br>  <br><br>
 
 [![LucasBertaud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBertaud&theme=tokyo-night)](https://github.com/LucasBertaud/github-readme-activity-graph)
 
