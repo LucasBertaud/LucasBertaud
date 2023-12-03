@@ -19,7 +19,7 @@ My favorite quote:
 <br>
 <h1 align="left">Some of my projects</h1>
 
-![Alt Text](game-gif.gif)
+![Alt Text](game-gif.gif) ![Alt Text](longuenesse.gif)
 
 <br>
 <h1 align="left">Skills</h1>
