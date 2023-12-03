@@ -14,14 +14,13 @@ I am a junior developer in an apprenticeship program in the "Département du Nor
 <a href="https://linkedin.com/in/lucas bertaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas bertaud" height="30" width="40" /></a>
 </p>
 
-- 📫 **l.bertaud@hotmail.com**
+📫 **l.bertaud@hotmail.com**
 
-<br>
 <h1 align="left">Some of my projects</h1>
     <img height=175 align="left" src="game-gif.gif" />
     <img style="margin-bottom: '20px';" height=175 align="left" src="longuenesse.gif" />
     
-<br><br>  <br><br>  <br><br>  <br><br>  <br><br>
+<br><br>  <br><br>  <br><br> <br><br>
 <h1 align="left">Skills</h1>
 
 **`Languages and Tools`**
