@@ -19,9 +19,13 @@ My favorite quote:
 <br>
 <h1 align="left">Some of my projects</h1>
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 <br>
 <h1 align="left">Skills</h1>
-<h3 align="center">Languages and Tools</h3>
+
+**`Languages and Tools`**
 
 **_Versioning_** : 
 
@@ -60,9 +64,17 @@ My favorite quote:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<a href="https://github.com/LucasBertaud/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=LucasBertaud&show_icons=true&theme=radical" />
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBertaud&layout=compact&theme=radical" />
-</a>
+<div>
+  <a href="https://github.com/LucasBertaud/github-readme-stats">
+    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=LucasBertaud&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/LucasBertaud/github-readme-stats">
+    <img style="margin-bottom: '20px';" height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBertaud&layout=compact&theme=tokyonight" />
+  </a>
+</div>
+<br><br><br><br><br><br><br><br><br>
 
+[![LucasBertaud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasBertaud&theme=tokyo-night)](https://github.com/LucasBertaud/github-readme-activity-graph)
+
+<br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=lucasbertaud&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbertaud" /> </p>
