@@ -63,6 +63,8 @@ My favorite quote:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<h1 align="left">Stats</h1>
+
   <a href="https://github.com/LucasBertaud/github-readme-stats">
     <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=LucasBertaud&show_icons=true&theme=tokyonight" />
   </a>
