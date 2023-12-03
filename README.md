@@ -18,10 +18,10 @@ My favorite quote:
 
 <br>
 <h1 align="left">Some of my projects</h1>
-
-![Alt Text](game-gif.gif) ![Alt Text](longuenesse.gif)
-
-<br>
+    <img height=175 align="left" src="game-gif.gif" />
+    <img style="margin-bottom: '20px';" height=175 align="left" src="longuenesse.gif" />
+    
+<br><br>  <br><br>  <br><br>  <br><br>  <br><br>
 <h1 align="left">Skills</h1>
 
 **`Languages and Tools`**
