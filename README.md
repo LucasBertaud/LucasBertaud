@@ -4,7 +4,7 @@
 
 I am a junior developer in an apprenticeship program in the "Département du Nord" since September 2023. I learned to develop during my professional "web developer" training, which began in September 2022 and I completed in June 2023. During this training, I was able to learn several languages such as HTML, CSS, Javascript, PHP, and MySQL, as well as frameworks like Bootstrap and Symfony. After obtaining the web developer title, I was hired as an apprentice Designer Developer in the "Département du Nord". During this apprenticeship, I continue my studies at "My Digital School" in Lille to obtain a Designer Developer title equivalent to a Bachelors's degree (BAC+3/+4).
 
-My favorite quote:
+**`My favorite quote:`**
 
 > Alea Jacta Est in Latin <br>
 > Advienne que pourra in French
