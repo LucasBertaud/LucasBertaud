@@ -64,10 +64,10 @@ My favorite quote:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
   <a href="https://github.com/LucasBertaud/github-readme-stats">
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=LucasBertaud&show_icons=true&theme=tokyonight" />
+    <img height=175 align="left" src="https://github-readme-stats.vercel.app/api?username=LucasBertaud&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/LucasBertaud/github-readme-stats">
-    <img style="margin-bottom: '20px';" height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBertaud&layout=compact&theme=tokyonight" />
+    <img style="margin-bottom: '20px';" height=175 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBertaud&layout=compact&theme=tokyonight" />
   </a>
 
   <br>
