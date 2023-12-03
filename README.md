@@ -19,7 +19,7 @@ My favorite quote:
 <br>
 <h1 align="left">Some of my projects</h1>
 
-![Alt Text](https://imgur.com/1g7j8s5) ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](game-gif.gif) ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif) ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <br>
