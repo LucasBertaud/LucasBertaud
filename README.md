@@ -11,7 +11,7 @@ I am a junior developer in an apprenticeship program in the "Département du Nor
 
 <h3 align="left">Connect with me:</h3>
 
-  <a href="https://linkedin.com/in/lucas bertaud">
+  <a href="www.linkedin.com/in/lucas-bertaud-262636252">
     <img height=30 align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
     <a href="mailto:l.bertaud@hotmail.com">
