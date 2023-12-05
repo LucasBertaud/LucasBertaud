@@ -14,7 +14,7 @@ I am a junior developer in an apprenticeship program in the "Département du Nor
     <img height=30 align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 
-  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/lucas-bertaud-262636252/)
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lucas-bertaud-262636252/)
 
   <br>
 
