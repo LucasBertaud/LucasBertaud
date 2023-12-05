@@ -10,13 +10,11 @@ I am a junior developer in an apprenticeship program in the "Département du Nor
 > Advienne que pourra in French
 
 <h3 align="left">Connect with me:</h3>
-
-  <a href="www.linkedin.com/in/lucas-bertaud-262636252">
-    <img height=30 align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-    <a href="mailto:l.bertaud@hotmail.com">
+  <a href="mailto:l.bertaud@hotmail.com">
     <img height=30 align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
+
+  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/lucas-bertaud-262636252/)
 
   <br>
 
