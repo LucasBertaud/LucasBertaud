@@ -21,8 +21,10 @@ I am a junior developer in an apprenticeship program in the "Département du Nor
 <br>
 
 <h1 align="left">Some of my projects</h1>
+<div>
     <img height=175 align="left" src="game-gif.gif" />
     <img style="margin-bottom: '20px';" height=175 align="left" src="longuenesse.gif" />
+</div>
     
 <br><br>  <br><br>  <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>
 <h1 align="left">Skills</h1>
