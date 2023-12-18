@@ -18,13 +18,13 @@ I am a junior developer in an apprenticeship program in the "Département du Nor
   <img height=30 align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   
-<br><br> <br><br> <br><br> <br><br>
+<br>
 
 <h1 align="left">Some of my projects</h1>
     <img height=175 align="left" src="game-gif.gif" />
     <img style="margin-bottom: '20px';" height=175 align="left" src="longuenesse.gif" />
     
-<br><br>  <br><br>  <br><br> <br><br>
+<br><br>  <br><br>  <br><br> <br><br> <br><br> <br><br> <br><br> <br><br>
 <h1 align="left">Skills</h1>
 
 **`Languages and Tools`**
